@@ -1,13 +1,5 @@
-/**
- * @file GSM_Private.h
- * @author Mohamed Dwedar (MohamedDwedar2699@gmail.com)
- * @brief Private Data of GSM Module
- * @version 0.1
- * @date 2023-08-26
- * 
- * @copyright Copyright (c) 2023
- * 
- */
+
+ 
 
 #ifndef GSM_PRIVATE_H_
 #define GSM_PRIVATE_H_
