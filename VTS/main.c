@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Mohamed Dwedar (MohamedDwedar@gmail.com)
+ * @author Karam Albendary
  * @brief Main Function To test GPS Performance ON TTL
  * @version 0.1
  * @date 2023-08-26
