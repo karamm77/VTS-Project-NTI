@@ -1,13 +1,4 @@
-/**
- * @file GSM_Config.h
- * @author Mohamed Dwedar (MohamedDwedar@gmail.com)
- * @brief GSM Confguration of data
- * @version 0.1
- * @date 2023-08-26
- * 
- * @copyright Copyright (c) 2023
- * 
- */
+
 
 #ifndef GSM_CONFIG_H_
 #define GSM_CONFIG_H_
