@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Mohamed Dwedar (MohamedDwedar2699@gmail.com)
+ * @author Karam Albendary
  * @brief Main to Test GSM Module
  * @version 0.1
  * @date 2023-08-26
