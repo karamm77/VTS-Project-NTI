@@ -1,13 +1,4 @@
-/**
- * @file GSM_Program.c
- * @author Mohamed Dwedar (MohamedDwedar2699@gmail.com)
- * @brief Used To Implement Functions of GSM 
- * @version 0.1
- * @date 2023-08-26
- * 
- * @copyright Copyright (c) 2023
- * 
- */
+
 
 #include "Bit_Math.h"
 #include "Std_Types.h"
