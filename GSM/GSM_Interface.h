@@ -1,13 +1,4 @@
-/**
- * @file GSM_Interface.h
- * @author Mohamed Dwedar (MohamedDwedar2699@gmail.com)
- * @brief GSM APIs and Global Functions
- * @version 0.1
- * @date 2023-08-26
- * 
- * @copyright Copyright (c) 2023
- * 
- */
+
 
 
 #ifndef GSM_INTERFACE_H_
