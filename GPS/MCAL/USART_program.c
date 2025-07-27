@@ -1,6 +1,6 @@
 /**
  * @file USART_program.c
- * @author Mohamed Dwedar (MohamedDwedar2699@gmail.com)
+ * @author Karam Albendary
  * @brief USART Driver Implementation
  * @version 0.1
  * @date 2023-08-26
