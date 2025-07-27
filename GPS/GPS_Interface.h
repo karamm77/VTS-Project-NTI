@@ -1,6 +1,6 @@
 /**
  * @file GPS_Interface.h
- * @author Mohamed Dwedar (MohamedDwedar@gmail.com)
+ * @author Karam Albendary
  * @brief GPS APIs and Global data
  * @version 0.1
  * @date 2023-08-26
