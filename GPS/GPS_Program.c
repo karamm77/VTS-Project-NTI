@@ -1,6 +1,6 @@
 /**
  * @file GPS_Program.c
- * @author Mohamed Dwedar (MohamedDwedar@gmail.com)
+ * @author Karam Albendary
  * @brief Implement GPS Driver
  * @version 0.1
  * @date 2023-08-26
