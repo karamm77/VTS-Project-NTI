@@ -1,6 +1,6 @@
 /**
  * @file DIO_program.c
- * @author Mohamed Dwedar (MohamedDwedar@gmail.com)
+ * @author Karam Albendary
  * @brief DIO Implementaiton
  * @version 0.1
  * @date 2023-08-26
