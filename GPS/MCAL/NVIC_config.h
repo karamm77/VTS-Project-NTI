@@ -1,6 +1,6 @@
 /**
  * @file NVIC_config.h
- * @author Mohamed Dwedar (MohamedDwedar@gmail.com)
+ * @author Karam Albendary
  * @brief NVIC For ARM
  * @version 0.1
  * @date 2023-08-26
