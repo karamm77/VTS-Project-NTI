@@ -1,6 +1,6 @@
 /**
  * @file NVIC_program.c
- * @author Mohamed Dwedar (MohamedDwedar@gmail.com)
+ * @author Karam Albendary
  * @brief NVIC Driver Implementation
  * @version 0.1
  * @date 2023-08-26
