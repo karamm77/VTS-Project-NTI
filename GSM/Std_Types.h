@@ -1,6 +1,6 @@
 /**
  * @file Std_Types.h
- * @author Mohamed Dwedar (MohamedDwedar2699@gmail.com)
+ * @author Karam Albendary
  * @brief standard types to use in project
  * @version 0.1
  * @date 2023-08-26
