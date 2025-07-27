@@ -1,6 +1,6 @@
 /**
  * @file USART_config.h
- * @author Mohamed Dwedar (MohamedDwedar2699@gmail.com)
+ * @author Karam Albendary
  * @brief configuration of USART
  * @version 0.1
  * @date 2023-08-26
