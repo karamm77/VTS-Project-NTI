@@ -1,6 +1,6 @@
 /**
  * @file NVIC_interface.h
- * @author Mohamed Dwedar (MohamedDwedar@gmail.com)
+ * @author Karam Albendary
  * @brief NVIC APIs and Global data
  * @version 0.1
  * @date 2023-08-26
