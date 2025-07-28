@@ -48,7 +48,7 @@ int main(void)
 	NVIC_voidInit();
 	NVIC_voidEnablePerInt(38);
 	NVIC_voidSetSwIntPriority(38, 0b1100);
-	NVIC_voidEnablePerInt(38);
+	
 
 	/*super loope*/
 	while(1)
